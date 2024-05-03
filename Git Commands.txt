@@ -1,0 +1,11 @@
+git -v
+
+git init
+
+git add .
+
+git remote add origin "https://github.com/vishvajeet004/git.git"
+
+git commit -m "First Commit"
+
+git push -u origin master
